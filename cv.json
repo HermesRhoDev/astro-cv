@@ -1,0 +1,339 @@
+{
+  "basics": {
+    "name": "Mathéo Guerrazzi",
+    "label": "Chef de Projets / Développeur Full Stack",
+    "image": "/me_avatar.webp",
+    "email": "materrazzi.pro@gmail.com",
+    "phone": "+33 6 77 54 43 32",
+    "url": "https://mguerrazzi.fr",
+    "summary": "Développeur Full Stack passionné par la création d'applications web. Actuellement à la recherche d'opportunités pour développer davantage mes compétences dans un environnement professionnel.",
+    "theme": "cyber",
+    "location": {
+      "address": "",
+      "postalCode": "14123",
+      "city": "Fleury-Sur-Orne",
+      "countryCode": "FR",
+      "region": "Normandie"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "mathéo-guerrazzi",
+        "url": "https://www.linkedin.com/in/math%C3%A9o-guerrazzi/"
+      },
+      {
+        "network": "GitHub",
+        "username": "HermesRhoDev",
+        "url": "https://github.com/HermesRhoDev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Scenarii",
+      "position": "Chef de Projets / Développeur Fullstack",
+      "location_type": "Hybride",
+      "location": "Bretteville-sur-Odon, Normandie",
+      "url": "https://scenarii.fr",
+      "startDate": "2024/08/08",
+      "endDate": null,
+      "summary": "TODO",
+      "highlights": [
+        "Gestion des projets digitaux",
+        "TODO"
+      ],
+      "responsibilities": [
+        "TODO"
+      ],
+      "achievements": [
+        "TODO"
+      ],
+      "skills": [
+        "React",
+        "Tailwind",
+        "GitHub",
+        "VPS",
+        "WordPress",
+        "Laravel"
+      ]
+    },
+    {
+      "name": "ID Market",
+      "position": "Développeur Fullstack",
+      "location_type": "Sur site",
+      "location": "Solier, Normandie",
+      "url": "https://www.idmarket.com/",
+      "startDate": "2023-09-01",
+      "endDate": "2024-07-01",
+      "summary": "TODO",
+      "highlights": [
+        "TODO"
+      ],
+      "responsibilities": [
+        "TODO"
+      ],
+      "achievements": [
+        "TODO"
+      ],
+      "skills": [
+        "PrestaShop",
+        "PHP",
+        "SCSS",
+        "Git"
+      ]
+    },
+    {
+      "name": "Normandie Attractivité",
+      "position": "Webmaster Alternant",
+      "location_type": "Hybride",
+      "location": "Caen, Normandie",
+      "url": "https://www.choisirlanormandie.fr/",
+      "startDate": "2021-09-01",
+      "endDate": "2023-07-01",
+      "summary": "TODO",
+      "highlights": [
+        "TODO"
+      ],
+      "skills": [
+        "PHP",
+        "WordPress"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Local Coding Club",
+      "position": "Volunteer",
+      "url": "https://codingclub.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Helped organize coding workshops and mentored new members.",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Crēative Tech School",
+      "url": "https://www.creative-tech-school.fr/",
+      "area": "Concepteur Développeur d'Applications",
+      "studyType": "Bac +3",
+      "startDate": "2021-09-01",
+      "endDate": "2023-07-01",
+      "score": null,
+      "courses": []
+    },
+    {
+      "institution": "Lycée Théodore Aubanel",
+      "url": "https://www.site.ac-aix-marseille.fr/lyc-aubanel/spip/",
+      "area": "BTS SIO - SLAM",
+      "studyType": "Bac +2",
+      "startDate": "2018-09-01",
+      "endDate": "2020-07-01",
+      "score": null,
+      "courses": []
+    },
+    {
+      "institution": "Lycée Théodore Aubanel",
+      "url": "https://www.site.ac-aix-marseille.fr/lyc-aubanel/spip/",
+      "area": "BAC STI2D - SIN",
+      "studyType": "Bac",
+      "startDate": "2018",
+      "endDate": "2018",
+      "score": null,
+      "courses": []
+    }
+  ],
+  "certificates": [],
+  "skills": [
+    {
+      "name": "Figma",
+      "level": "Expert",
+      "keywords": [
+        "Design",
+        "UI"
+      ]
+    },
+    {
+      "name": "Gitlab",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Langue maternelle"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Intermédiaire"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Personal Portfolio",
+      "isActive": false,
+      "description": "A personal portfolio website to showcase my projects and skills.",
+      "highlights": [
+        "Built with React and Tailwind CSS",
+        "Includes a blog and contact form"
+      ],
+      "url": "https://johndoe.dev",
+      "github": "https://github.com"
+    },
+    {
+      "name": "Weather App",
+      "isActive": true,
+      "description": "A web application that provides weather information for any location.",
+      "highlights": [
+        "Built with JavaScript and OpenWeatherMap API",
+        "Responsive design"
+      ],
+      "url": "https://weatherapp.com"
+    },
+    {
+      "name": "Task Manager",
+      "isActive": true,
+      "description": "A simple task management app to keep track of daily tasks.",
+      "highlights": [
+        "Built with Node.js and MongoDB",
+        "User authentication and CRUD operations"
+      ],
+      "url": "https://taskmanager.com",
+      "github": "https://github.com"
+    },
+    {
+      "name": "E-commerce Site",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "highlights": [
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
+    }
+  ]
+}
