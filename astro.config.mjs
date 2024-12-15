@@ -3,5 +3,8 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://HermesRhoDev.github.io',
+  base: 'astro-cv',
+  trailingSlash: 'always',
   integrations: [tailwind()],
 });
